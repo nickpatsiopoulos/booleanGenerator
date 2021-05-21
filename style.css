@@ -1,0 +1,39 @@
+* {
+    margin-left: .75rem;
+    font-family: Roboto;
+}
+
+textarea {
+    margin-top: 10px;
+    display: block;
+    width: 760px;
+    height: 200px;
+    font-family: monospace;
+}
+
+button {
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+#outputbox {
+    margin-top: 20px;
+    border: 1px solid red;
+    width: 760px;
+    height: 200px;
+}
+
+#just_for_copy {
+    position: absolute;
+    top: -9999px;
+}
+
+#splitNum {
+    width: 45px;
+    margin-left: 10px;
+}
+
+#textEntryLabel {
+    display: block;
+    margin-top: 20px;
+}
